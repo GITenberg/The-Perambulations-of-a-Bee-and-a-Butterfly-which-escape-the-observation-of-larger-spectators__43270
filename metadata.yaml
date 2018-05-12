@@ -1,0 +1,29 @@
+_repo: The-Perambulations-of-a-Bee-and-a-Butterfly-which-escape-the-observation-of-larger-spectators__43270
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43270-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sandham, Elizabeth
+    gutenberg_agent_id: '41484'
+    url: http://www.gutenberg.org/2009/agents/41484
+description: ''
+gutenberg_issued: '2013-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43270'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Butterflies -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Bees -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+title: "The Perambulations of a Bee and a Butterfly,\r\nIn which are delineated those\
+  \ smaller traits of character which escape the observation of larger spectators."
+url: http://www.gutenberg.org/ebooks/43270
